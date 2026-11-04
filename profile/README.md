@@ -24,11 +24,14 @@ The Working Group (and this organization) are sponsored by the MATLAB Community 
 
 | Repo Name | Type | Readiness | [Maintainer(s)](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#repository-roles-for-organizations) | WBP 1 | WBP 2 | WBP 3 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Brain Observatory Toolbox](https://github.com/MATLAB-Community-Toolboxes-at-INCF/Brain-Observatory-Toolbox) | ➡️ | 👷🏼‍♀️| [Waltham Data Science](https://github.com/stevewds)| 🌕 | 🌕 | 🌗 |
 | [DeepInterpolation-MATLAB](https://github.com/MATLAB-Community-Toolboxes-at-INCF/DeepInterpolation-MATLAB) | 🐣 | 🚧 | [Waltham Data Science](https://github.com/stevewds)|🌕 | 🌕 | |
 | Neuropixels Toolkit |🐣|⛔|  [Waltham Data Science](https://github.com/stevewds)| | |
 | OpenNeuro-MATLAB |🐣|⛔| [Tibor Auer PhD](https://github.com/tiborauer) | | |
 
 ## Notable Repository Alumni 
-\<COMING SOON\> 
+Toolboxes that started in this organization and now live with a long-term maintainer.
+
+| Repo Name | New Home | Maintainer(s) |
+| --- | --- | --- |
+| Brain Observatory Toolbox | [Waltham-Data-Science/Brain-Observatory-Toolbox](https://github.com/Waltham-Data-Science/Brain-Observatory-Toolbox) | [Waltham Data Science](https://github.com/Waltham-Data-Science) | 
 
